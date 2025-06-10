@@ -216,7 +216,8 @@ plt.grid(True, alpha=0.5)
 # 在右上角显示图例
 plt.legend(loc='upper right')
 
-plt.show()  # 显示绘制的图像
+ # 显示绘制的图像
+plt.show() 
 
 # 25. 画图：画正弦函数和余弦函数， x = np.arange(0, 3 * np.pi, 0.1)(提示：这里用到 np.sin() ，np.cos() 函数和 matplotlib.pyplot 库)
 print("第二十五题：\n")
