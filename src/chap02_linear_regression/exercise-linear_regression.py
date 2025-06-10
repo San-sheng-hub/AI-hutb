@@ -274,7 +274,7 @@ def main(x_train, y_train, use_gradient_descent=False):
     return f, w_lsq, w_gd
 
 
-# ## 评估结果
+
 # ## 评估结果
 # > 没有需要填写的代码，但是建议读懂
 
