@@ -3,8 +3,8 @@
 
 # # Tensorflow2.0 小练习
 
-import tensorflow as tf
-import numpy as np
+import tensorflow as tf # TensorFlow深度学习框架
+import numpy as np # NumPy科学计算库
 
 # ## 实现softmax函数
 

@@ -237,7 +237,7 @@ pylab.show()
 
 # In[23]:
 
-rand_model = MyConvModel()
+rand_model = MyConvModel()  # 实例化自定义卷积模型类对象
 ds, test_ds = cifar10_dataset()
 
 for i in test_ds:
